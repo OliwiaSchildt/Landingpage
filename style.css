@@ -1,0 +1,36 @@
+body {
+		background-color: pink;
+		color:blue;
+}
+
+h1 {
+	color: blue;
+	font-size: 25px;
+	font-family: 'Lexend Deca', sans-serif;
+	border: 4px rgba(400,200,0.7)dotted;
+	border-radius: 50px;
+	box-shadow: -9px 8px 3px blue;
+
+
+}
+
+h2{
+	color: #D62828;
+	font-size: 22px;
+	font-weight: 500;
+	font-size: 20px;
+
+}
+.honeypot{
+text-align: center;
+box-shadow: 3px 3px 3px rgba(40,40,40)
+height: 300px;
+width:300px;
+margin: 10px;
+}
+
+#banner {
+	text-align:center;
+	width: 100vw;
+
+}
